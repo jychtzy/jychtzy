@@ -2,7 +2,7 @@
 
 ### Hi, I'm A-j!
 
-🔭 Studied [Information Technology with Spealization Mobile and Web Application] at National University, Philippines<br/>
+👨‍🎓 Studied [Information Technology with Spealization Mobile and Web Application] at National University, Philippines<br/>
 😄 he/him<br/>
 ⚡ Fun fact: I love playing online games and travelling.<br/>
 
