@@ -6,6 +6,16 @@
 😄 he/him<br/>
 ⚡ Fun fact: I love playing online games and travelling.<br/>
 
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=jychtzy&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+
 # 💻 Tech Stack
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
@@ -31,3 +41,7 @@
 
 # 📊 GitHub Stats
 [![A-j's githun stats](https://github-readme-stats.vercel.app/api?username=jychtzy)](https://github.com/jychtzy/github-readme-stats)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
